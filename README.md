@@ -1,3 +1,6 @@
+![image alt]([image_url](https://github.com/VinaKumar000586/Hospitality-domain-hotel-revenue/blob/main/Hospitality%20Dashboard.png))
+
+
 Revenue = SUM(fact_bookings[revenue_realized])
 Total Bookings = COUNT(fact_bookings[booking_id])
 Total Capacity = SUM(fact_aggregated_bookings[capacity])
